@@ -1,0 +1,24 @@
+# Virtual environment
+venv_tf/
+
+# Dataset
+data/
+kagglecatsanddogs_5340.zip
+
+# Trained model (too large for GitHub)
+dog_cat_model.h5
+
+# YOLO weights
+yolov8n.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
